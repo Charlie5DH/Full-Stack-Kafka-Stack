@@ -1,0 +1,255 @@
+1668433352: mosquitto version 2.0.15 starting
+1668433352: Config loaded from /mosquitto/config/mosquitto.conf.
+1668433352: Error: Unable to open pwfile "/mosquitto/config/credentials".
+1668433352: Error opening password file "/mosquitto/config/credentials".
+1668433352: mosquitto version 2.0.15 starting
+1668433352: Config loaded from /mosquitto/config/mosquitto.conf.
+1668433352: Error: Unable to open pwfile "/mosquitto/config/credentials".
+1668433352: Error opening password file "/mosquitto/config/credentials".
+1668433353: mosquitto version 2.0.15 starting
+1668433353: Config loaded from /mosquitto/config/mosquitto.conf.
+1668433353: Error: Unable to open pwfile "/mosquitto/config/credentials".
+1668433353: Error opening password file "/mosquitto/config/credentials".
+1668433354: mosquitto version 2.0.15 starting
+1668433354: Config loaded from /mosquitto/config/mosquitto.conf.
+1668433354: Error: Unable to open pwfile "/mosquitto/config/credentials".
+1668433354: Error opening password file "/mosquitto/config/credentials".
+1668433356: mosquitto version 2.0.15 starting
+1668433356: Config loaded from /mosquitto/config/mosquitto.conf.
+1668433356: Error: Unable to open pwfile "/mosquitto/config/credentials".
+1668433356: Error opening password file "/mosquitto/config/credentials".
+1668433358: mosquitto version 2.0.15 starting
+1668433358: Config loaded from /mosquitto/config/mosquitto.conf.
+1668433358: Error: Unable to open pwfile "/mosquitto/config/credentials".
+1668433358: Error opening password file "/mosquitto/config/credentials".
+1668433361: mosquitto version 2.0.15 starting
+1668433361: Config loaded from /mosquitto/config/mosquitto.conf.
+1668433361: Error: Unable to open pwfile "/mosquitto/config/credentials".
+1668433361: Error opening password file "/mosquitto/config/credentials".
+1668433368: mosquitto version 2.0.15 starting
+1668433368: Config loaded from /mosquitto/config/mosquitto.conf.
+1668433368: Error: Unable to open pwfile "/mosquitto/config/credentials".
+1668433368: Error opening password file "/mosquitto/config/credentials".
+1668433382: mosquitto version 2.0.15 starting
+1668433382: Config loaded from /mosquitto/config/mosquitto.conf.
+1668433382: Error: Unable to open pwfile "/mosquitto/config/credentials".
+1668433382: Error opening password file "/mosquitto/config/credentials".
+1668433408: mosquitto version 2.0.15 starting
+1668433408: Config loaded from /mosquitto/config/mosquitto.conf.
+1668433408: Starting in local only mode. Connections will only be possible from clients running on this machine.
+1668433408: Create a configuration file which defines a listener to allow remote access.
+1668433408: For more details see https://mosquitto.org/documentation/authentication-methods/
+1668433408: Opening ipv4 listen socket on port 1883.
+1668433408: Opening ipv6 listen socket on port 1883.
+1668433408: Error: Address not available
+1668433408: mosquitto version 2.0.15 running
+1668433703: mosquitto version 2.0.15 terminating
+1668433703: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1668433704: mosquitto version 2.0.15 starting
+1668433704: Config loaded from /mosquitto/config/mosquitto.conf.
+1668433704: Opening ipv4 listen socket on port 1883.
+1668433704: Opening ipv6 listen socket on port 1883.
+1668433704: mosquitto version 2.0.15 running
+1668433795: New connection from 172.24.0.1:42432 on port 1883.
+1668433795: Client mqtt-explorer-b7541bd8 disconnected, not authorised.
+1668433802: New connection from 172.24.0.1:42442 on port 1883.
+1668433802: Client mqtt-explorer-b7541bd8 disconnected, not authorised.
+1668433809: New connection from 172.24.0.1:42446 on port 1883.
+1668433809: Client mqtt-explorer-b7541bd8 disconnected, not authorised.
+1668433964: mosquitto version 2.0.15 terminating
+1668433964: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1668433967: mosquitto version 2.0.15 starting
+1668433967: Config loaded from /mosquitto/config/mosquitto.conf.
+1668433967: Opening ipv4 listen socket on port 1883.
+1668433967: Opening ipv6 listen socket on port 1883.
+1668433967: mosquitto version 2.0.15 running
+1668434001: New connection from 172.24.0.1:42648 on port 1883.
+1668434001: Client mqtt-explorer-b7541bd8 disconnected, not authorised.
+1668434099: New connection from 172.24.0.1:42744 on port 1883.
+1668434099: Client mqtt-explorer-b7541bd8 disconnected, not authorised.
+1668434100: New connection from 172.24.0.1:42746 on port 1883.
+1668434100: Client mqtt-explorer-b7541bd8 disconnected, not authorised.
+1668434100: New connection from 172.24.0.1:42750 on port 1883.
+1668434100: Client mqtt-explorer-b7541bd8 disconnected, not authorised.
+1668434101: New connection from 172.24.0.1:42752 on port 1883.
+1668434101: Client mqtt-explorer-b7541bd8 disconnected, not authorised.
+1668434104: New connection from 172.24.0.1:42760 on port 1883.
+1668434104: Client mqtt-explorer-b7541bd8 disconnected, not authorised.
+1668434106: New connection from 172.24.0.1:42762 on port 1883.
+1668434106: Client mqtt-explorer-b7541bd8 disconnected, not authorised.
+1668434122: New connection from 172.24.0.1:42778 on port 1883.
+1668434122: Client mqtt-explorer-b7541bd8 disconnected, not authorised.
+1668434123: New connection from 172.24.0.1:42782 on port 1883.
+1668434123: Client mqtt-explorer-b7541bd8 disconnected, not authorised.
+1668434150: New connection from 172.24.0.1:42810 on port 1883.
+1668434150: Client mqtt-explorer-b7541bd8 disconnected, not authorised.
+1668434151: New connection from 172.24.0.1:42812 on port 1883.
+1668434151: Client mqtt-explorer-b7541bd8 disconnected, not authorised.
+1668434151: New connection from 172.24.0.1:42814 on port 1883.
+1668434151: Client mqtt-explorer-b7541bd8 disconnected, not authorised.
+1668434152: New connection from 172.24.0.1:42816 on port 1883.
+1668434152: Client mqtt-explorer-b7541bd8 disconnected, not authorised.
+1668434160: New connection from 172.24.0.1:42840 on port 1883.
+1668434160: Client mqtt-explorer-b7541bd8 disconnected, not authorised.
+1668434164: New connection from 172.24.0.1:42846 on port 1883.
+1668434164: Client mqtt-explorer-b7541bd8 disconnected, not authorised.
+1668434165: New connection from 172.24.0.1:42850 on port 1883.
+1668434165: Client <unknown> disconnected due to protocol error.
+1668434168: New connection from 172.24.0.1:42852 on port 1883.
+1668434168: Client mqtt-explorer-b7541bd8 disconnected, not authorised.
+1668434266: mosquitto version 2.0.15 terminating
+1668435031: mosquitto version 2.0.15 starting
+1668435031: Config loaded from /mosquitto/config/mosquitto.conf.
+1668435031: Opening ipv4 listen socket on port 1883.
+1668435031: Opening ipv6 listen socket on port 1883.
+1668435031: mosquitto version 2.0.15 running
+1668435825: mosquitto version 2.0.15 terminating
+1668435932: mosquitto version 2.0.15 starting
+1668435932: Config loaded from /mosquitto/config/mosquitto.conf.
+1668435932: Opening ipv4 listen socket on port 1883.
+1668435932: Opening ipv6 listen socket on port 1883.
+1668435932: mosquitto version 2.0.15 running
+1668436416: New connection from 172.19.0.14:49862 on port 1883.
+1668436417: New client connected from 172.19.0.14:49862 as paho100528048790200 (p2, c1, k60).
+1668436417: Client paho100528048790200 disconnected.
+1668436417: New connection from 172.19.0.14:49878 on port 1883.
+1668436417: New client connected from 172.19.0.14:49878 as paho100528431104700 (p2, c1, k60).
+1668436417: Client paho100528431104700 disconnected.
+1668436418: New connection from 172.19.0.14:49918 on port 1883.
+1668436418: New connection from 172.19.0.14:49930 on port 1883.
+1668436418: New client connected from 172.19.0.14:49918 as paho100529251275200 (p2, c1, k60).
+1668436418: New client connected from 172.19.0.14:49930 as paho100529377752900 (p2, c1, k60).
+1668436768: New connection from 172.19.0.1:46696 on port 1883.
+1668436768: New client connected from 172.19.0.1:46696 as mqtt-explorer-b7541bd8 (p2, c1, k60).
+1668437255: Client paho100529251275200 disconnected.
+1668437255: Client paho100529377752900 disconnected.
+1668437277: New connection from 172.19.0.14:51364 on port 1883.
+1668437277: New connection from 172.19.0.14:51366 on port 1883.
+1668437277: New client connected from 172.19.0.14:51366 as paho101388496633100 (p2, c1, k60).
+1668437277: New client connected from 172.19.0.14:51364 as paho101388496651700 (p2, c1, k60).
+1668437282: New connection from 172.19.0.14:51448 on port 1883.
+1668437282: New client connected from 172.19.0.14:51448 as paho101393886900700 (p2, c1, k60).
+1668437282: Client paho101393886900700 disconnected.
+1668437282: New connection from 172.19.0.14:51458 on port 1883.
+1668437283: New client connected from 172.19.0.14:51458 as paho101394224857300 (p2, c1, k60).
+1668437283: Client paho101394224857300 disconnected.
+1668455881: New connection from 172.19.0.14:53430 on port 1883.
+1668455882: New client connected from 172.19.0.14:53430 as paho103194908899800 (p2, c1, k60).
+1668455882: Client paho103194908899800 disconnected.
+1668455882: New connection from 172.19.0.14:53442 on port 1883.
+1668455882: New client connected from 172.19.0.14:53442 as paho103195236888000 (p2, c1, k60).
+1668455882: Client paho103195236888000 disconnected.
+1668456007: New connection from 172.19.0.14:53624 on port 1883.
+1668456007: New client connected from 172.19.0.14:53624 as paho103320305568200 (p2, c1, k60).
+1668456007: Client paho103320305568200 disconnected.
+1668456007: New connection from 172.19.0.14:53640 on port 1883.
+1668456007: New client connected from 172.19.0.14:53640 as paho103320642933600 (p2, c1, k60).
+1668456007: Client paho103320642933600 disconnected.
+1668456064: New connection from 172.19.0.14:53748 on port 1883.
+1668456065: New client connected from 172.19.0.14:53748 as paho103378036295000 (p2, c1, k60).
+1668456065: Client paho103378036295000 disconnected.
+1668456065: New connection from 172.19.0.14:53760 on port 1883.
+1668456065: New client connected from 172.19.0.14:53760 as paho103378356979300 (p2, c1, k60).
+1668456065: Client paho103378356979300 disconnected.
+1668456115: New connection from 172.19.0.14:53870 on port 1883.
+1668456115: New client connected from 172.19.0.14:53870 as paho103428710672500 (p2, c1, k60).
+1668456115: Client paho103428710672500 disconnected.
+1668456115: New connection from 172.19.0.14:53882 on port 1883.
+1668456116: New client connected from 172.19.0.14:53882 as paho103429033632400 (p2, c1, k60).
+1668456116: Client paho103429033632400 disconnected.
+1668456166: New connection from 172.19.0.14:53986 on port 1883.
+1668456166: New client connected from 172.19.0.14:53986 as paho103479405284800 (p2, c1, k60).
+1668456166: Client paho103479405284800 disconnected.
+1668456166: New connection from 172.19.0.14:54000 on port 1883.
+1668456166: New client connected from 172.19.0.14:54000 as paho103479729152100 (p2, c1, k60).
+1668456166: Client paho103479729152100 disconnected.
+1668456258: New connection from 172.19.0.14:54146 on port 1883.
+1668456258: New client connected from 172.19.0.14:54146 as paho103571183064200 (p2, c1, k60).
+1668456258: Client paho103571183064200 disconnected.
+1668456258: New connection from 172.19.0.14:54158 on port 1883.
+1668456258: New client connected from 172.19.0.14:54158 as paho103571506068000 (p2, c1, k60).
+1668456258: Client paho103571506068000 disconnected.
+1668457928: New connection from 172.19.0.14:55968 on port 1883.
+1668457928: New client connected from 172.19.0.14:55968 as paho105241532605500 (p2, c1, k60).
+1668457928: Client paho105241532605500 disconnected.
+1668457928: New connection from 172.19.0.14:55980 on port 1883.
+1668457929: New client connected from 172.19.0.14:55980 as paho105241854542600 (p2, c1, k60).
+1668457929: Client paho105241854542600 disconnected.
+1668458598: New connection from 172.19.0.1:52676 on port 1883.
+1668458598: New client connected from 172.19.0.1:52676 as sensor_data (p2, c1, k60).
+1668458608: New connection from 172.19.0.1:52694 on port 1883.
+1668458608: New client connected from 172.19.0.1:52694 as engine_data (p2, c1, k60).
+1668458657: New connection from 172.19.0.14:56826 on port 1883.
+1668458658: New client connected from 172.19.0.14:56826 as paho105971114834100 (p2, c1, k60).
+1668458658: Client paho105971114834100 disconnected.
+1668458658: New connection from 172.19.0.14:56838 on port 1883.
+1668458658: New client connected from 172.19.0.14:56838 as paho105971521528300 (p2, c1, k60).
+1668458658: Client paho105971521528300 disconnected.
+1668459588: mosquitto version 2.0.15 starting
+1668459588: Config loaded from /mosquitto/config/mosquitto.conf.
+1668459588: Opening ipv4 listen socket on port 1883.
+1668459588: Opening ipv6 listen socket on port 1883.
+1668459588: mosquitto version 2.0.15 running
+1668459651: New connection from 172.19.0.17:55112 on port 1883.
+1668459651: New connection from 172.19.0.17:55114 on port 1883.
+1668459651: New client connected from 172.19.0.17:55112 as paho233323827500 (p2, c1, k60).
+1668459651: New client connected from 172.19.0.17:55114 as paho233323394000 (p2, c1, k60).
+1668459659: New connection from 172.19.0.17:55200 on port 1883.
+1668459659: New client connected from 172.19.0.17:55200 as paho241622141900 (p2, c1, k60).
+1668459659: Client paho241622141900 disconnected.
+1668459659: New connection from 172.19.0.17:55212 on port 1883.
+1668459660: New client connected from 172.19.0.17:55212 as paho241964472000 (p2, c1, k60).
+1668459660: Client paho241964472000 disconnected.
+1668459670: New connection from 172.19.0.1:38194 on port 1883.
+1668459670: New client connected from 172.19.0.1:38194 as sensor_data (p2, c1, k60).
+1668459686: New connection from 172.19.0.1:38214 on port 1883.
+1668459686: New client connected from 172.19.0.1:38214 as engine_data (p2, c1, k60).
+1668459941: New connection from 172.19.0.17:55718 on port 1883.
+1668459941: New client connected from 172.19.0.17:55718 as paho523546576400 (p2, c1, k60).
+1668459941: Client paho523546576400 disconnected.
+1668459941: New connection from 172.19.0.17:55732 on port 1883.
+1668459941: New client connected from 172.19.0.17:55732 as paho523871293400 (p2, c1, k60).
+1668459941: Client paho523871293400 disconnected.
+1668460347: New connection from 172.19.0.17:56212 on port 1883.
+1668460347: New client connected from 172.19.0.17:56212 as paho929674796700 (p2, c1, k60).
+1668460347: Client paho929674796700 disconnected.
+1668460347: New connection from 172.19.0.17:56224 on port 1883.
+1668460348: New client connected from 172.19.0.17:56224 as paho930008795300 (p2, c1, k60).
+1668460348: Client paho930008795300 disconnected.
+1668461298: New connection from 172.19.0.20:44926 on port 1883.
+1668461298: New client connected from 172.19.0.20:44926 as Telegraf-Consumer-0nUpl (p2, c1, k60).
+1668462077: New connection from 172.19.0.1:41000 on port 1883.
+1668462077: New client connected from 172.19.0.1:41000 as mqtt-explorer-b7541bd8 (p2, c1, k60).
+1668462085: Client mqtt-explorer-b7541bd8 disconnected.
+1668462788: mosquitto version 2.0.15 terminating
+1668462885: mosquitto version 2.0.15 starting
+1668462885: Config loaded from /mosquitto/config/mosquitto.conf.
+1668462885: Opening ipv4 listen socket on port 1883.
+1668462885: Opening ipv6 listen socket on port 1883.
+1668462885: mosquitto version 2.0.15 running
+1668463672: New connection from 172.19.0.20:58964 on port 1883.
+1668463672: New client connected from 172.19.0.20:58964 as telegraf.client (p2, c1, k60).
+1668464705: Client telegraf.client disconnected.
+1668464709: New connection from 172.19.0.20:60132 on port 1883.
+1668464709: New client connected from 172.19.0.20:60132 as telegraf.client (p2, c1, k60).
+1668464778: New connection from 172.19.0.17:50366 on port 1883.
+1668464778: New client connected from 172.19.0.17:50366 as paho5360808299900 (p2, c1, k60).
+1668464778: Client paho5360808299900 disconnected.
+1668464778: New connection from 172.19.0.17:50382 on port 1883.
+1668464779: New client connected from 172.19.0.17:50382 as paho5361176695300 (p2, c1, k60).
+1668464779: Client paho5361176695300 disconnected.
+1668464779: New connection from 172.19.0.17:50426 on port 1883.
+1668464779: New connection from 172.19.0.17:50438 on port 1883.
+1668464780: New client connected from 172.19.0.17:50426 as paho5361958395100 (p2, c1, k60).
+1668464780: New client connected from 172.19.0.17:50438 as paho5362112373300 (p2, c1, k60).
+1668464782: New connection from 172.19.0.1:44578 on port 1883.
+1668464782: New client connected from 172.19.0.1:44578 as engine_data (p2, c1, k60).
+1668464784: New connection from 172.19.0.1:44586 on port 1883.
+1668464784: New client connected from 172.19.0.1:44586 as sensor_data (p2, c1, k60).
+1668466168: Client telegraf.client disconnected.
+1668466171: New connection from 172.19.0.20:33630 on port 1883.
+1668466171: New client connected from 172.19.0.20:33630 as telegraf.client (p2, c1, k60).
+1668474984: Client sensor_data closed its connection.
+1668474985: Client engine_data closed its connection.
+1668474987: Client telegraf.client disconnected.
+1668474987: mosquitto version 2.0.15 terminating

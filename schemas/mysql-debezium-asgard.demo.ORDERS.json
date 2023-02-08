@@ -1,0 +1,71 @@
+{
+  "type": "record",
+  "name": "Value",
+  "namespace": "asgard.demo.ORDERS",
+  "fields": [
+    {
+      "name": "id",
+      "type": "int"
+    },
+    {
+      "name": "customer_id",
+      "type": ["null", "int"],
+      "default": null
+    },
+    {
+      "name": "order_total_usd",
+      "type": ["null", "double"],
+      "default": null
+    },
+    {
+      "name": "make",
+      "type": ["null", "string"],
+      "default": null
+    },
+    {
+      "name": "model",
+      "type": ["null", "string"],
+      "default": null
+    },
+    {
+      "name": "delivery_city",
+      "type": ["null", "string"],
+      "default": null
+    },
+    {
+      "name": "delivery_company",
+      "type": ["null", "string"],
+      "default": null
+    },
+    {
+      "name": "delivery_address",
+      "type": ["null", "string"],
+      "default": null
+    },
+    {
+      "name": "CREATE_TS",
+      "type": [
+        "null",
+        {
+          "type": "string",
+          "connect.version": 1,
+          "connect.name": "io.debezium.time.ZonedTimestamp"
+        }
+      ],
+      "default": null
+    },
+    {
+      "name": "UPDATE_TS",
+      "type": [
+        "null",
+        {
+          "type": "string",
+          "connect.version": 1,
+          "connect.name": "io.debezium.time.ZonedTimestamp"
+        }
+      ],
+      "default": null
+    }
+  ],
+  "connect.name": "asgard.demo.ORDERS.Value"
+}

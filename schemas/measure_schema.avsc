@@ -1,0 +1,33 @@
+{
+  "type": "record",
+  "name": "sampleRecord",
+  "namespace": "com.mycorp.mynamespace",
+  "doc": "Sample schema to help you get started.",
+  "fields": [
+    {
+      "name": "user_id",
+      "type": "int",
+      "doc": "The int type is a 32-bit signed integer."
+    },
+    {
+      "name": "user_name",
+      "type": "string",
+      "doc": "The double type is a double precision (64-bit) IEEE 754 floating-point number."
+    },
+    {
+      "name": "user_address",
+      "type": "string",
+      "doc": "The string is a unicode character sequence."
+    },
+    {
+      "name": "platform",
+      "type": "string",
+      "doc": "Device accessed"
+    },
+    {
+      "name": "signup_at",
+      "type": "string",
+      "doc": "Date"
+    }
+  ]
+}

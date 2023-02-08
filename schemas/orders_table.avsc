@@ -1,0 +1,27 @@
+{
+  "type": "record",
+  "name": "KsqlDataSourceSchema",
+  "namespace": "io.confluent.ksql.avro_schemas",
+  "fields": [
+    {
+      "name": "MAKE",
+      "type": ["null", "string"],
+      "default": null
+    },
+    {
+      "name": "WINDOW_START_TS",
+      "type": ["null", "string"],
+      "default": null
+    },
+    {
+      "name": "ORDER_COUNT",
+      "type": ["null", "long"],
+      "default": null
+    },
+    {
+      "name": "TOTAL_VALUE_USD",
+      "type": ["null", "double"],
+      "default": null
+    }
+  ]
+}

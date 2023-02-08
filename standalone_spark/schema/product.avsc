@@ -1,0 +1,72 @@
+{
+  "type": "record",
+  "name": "Product",
+  "namespace": "com.example.models",
+  "fields": [
+    {
+      "name": "event_time",
+      "type": "string",
+      "doc": "The string is a unicode character sequence."
+    },
+    {
+      "name": "product_id",
+      "type": "string",
+      "doc": "The string is a unicode character sequence."
+    },
+    {
+      "name": "category",
+      "type": "string",
+      "doc": "The string is a unicode character sequence."
+    },
+    {
+      "name": "item",
+      "type": "string",
+      "doc": "The string is a unicode character sequence."
+    },
+    {
+      "name": "size",
+      "type": "string",
+      "doc": "The string is a unicode character sequence."
+    },
+    {
+      "name": "cogs",
+      "type": "float",
+      "doc": "The double type is a double precision (64-bit) IEEE 754 floating-point number."
+    },
+    {
+      "name": "price",
+      "type": "float",
+      "doc": "The double type is a double precision (64-bit) IEEE 754 floating-point number."
+    },
+    {
+      "name": "inventory_level",
+      "type": "int",
+      "doc": "The int type is a 32-bit signed integer."
+    },
+    {
+      "name": "contains_fruit",
+      "type": "boolean",
+      "doc": "The boolean type has two possible values: true and false."
+    },
+    {
+      "name": "contains_veggies",
+      "type": "boolean",
+      "doc": "The boolean type has two possible values: true and false."
+    },
+    {
+      "name": "contains_nuts",
+      "type": "boolean",
+      "doc": "The boolean type has two possible values: true and false."
+    },
+    {
+      "name": "contains_caffeine",
+      "type": "boolean",
+      "doc": "The boolean type has two possible values: true and false."
+    },
+    {
+      "name": "propensity_to_buy",
+      "type": "int",
+      "doc": "The int type is a 32-bit signed integer."
+    }
+  ]
+}

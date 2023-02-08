@@ -1,0 +1,66 @@
+version: "3"
+services:
+  spark-standalone:
+    image: docker.io/bitnami/spark:3
+    container_name: spark_standalone
+    hostname: spark_standalone
+    user: root
+    environment:
+      - SPARK_MODE=master
+      - SPARK_RPC_AUTHENTICATION_ENABLED=no
+      - SPARK_RPC_ENCRYPTION_ENABLED=no
+      - SPARK_LOCAL_STORAGE_ENCRYPTION_ENABLED=no
+      - SPARK_SSL_ENABLED=no
+    ports:
+      - "28080:8080"
+    volumes:
+      - ./standalone_spark:/home
+      - ./standalone_spark/configs/opt/spark/conf/spark-defaults.conf:/opt/bitnami/spark/conf/spark-defaults.conf
+      - ./standalone_spark/configs/opt/spark/jars:/opt/bitnami/spark/ivy:z
+    networks:
+      - localnet
+
+  spark-master:
+    image: "docker.io/bitnami/spark:3.3"
+    container_name: spark-master
+    environment:
+      - SPARK_MODE=master
+      - SPARK_RPC_AUTHENTICATION_ENABLED=no
+      - SPARK_RPC_ENCRYPTION_ENABLED=no
+      - SPARK_LOCAL_STORAGE_ENCRYPTION_ENABLED=no
+      - SPARK_SSL_ENABLED=no
+      - BOOTSTRAP_SERVER=kafka:9092
+    ports:
+      - "18080:8080"
+    volumes:
+      - ./standalone_spark:/home
+      - ./standalone_spark/configs/opt/spark/conf/spark-defaults.conf:/opt/bitnami/spark/conf/spark-defaults.conf
+      - ./standalone_spark/configs/opt/spark/jars:/opt/bitnami/spark/ivy:z
+    networks:
+      - localnet
+
+  spark-worker:
+    image: "docker.io/bitnami/spark:3.3"
+    container_name: spark-worker
+    ports:
+      - "18081:8080"
+    environment:
+      - SPARK_MODE=worker
+      - SPARK_MASTER_URL=spark://spark:7077
+      - SPARK_WORKER_MEMORY=1G
+      - SPARK_WORKER_CORES=1
+      - SPARK_RPC_AUTHENTICATION_ENABLED=no
+      - SPARK_RPC_ENCRYPTION_ENABLED=no
+      - SPARK_LOCAL_STORAGE_ENCRYPTION_ENABLED=no
+      - SPARK_SSL_ENABLED=no
+      - BOOTSTRAP_SERVER=kafka:9092
+    volumes:
+      - ./standalone_spark:/home
+      - ./standalone_spark/configs/opt/spark/conf/spark-defaults.conf:/opt/bitnami/spark/conf/spark-defaults.conf
+      - ./standalone_spark/configs/opt/spark/jars:/opt/bitnami/spark/ivy:z
+    networks:
+      - localnet
+
+networks:
+  localnet:
+    driver: bridge

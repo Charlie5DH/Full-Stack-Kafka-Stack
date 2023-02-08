@@ -1,0 +1,32 @@
+{
+  "type": "record",
+  "name": "Inventory",
+  "namespace": "com.example.models",
+  "fields": [
+    {
+      "name": "event_time",
+      "type": "string",
+      "doc": "The string is a unicode character sequence."
+    },
+    {
+      "name": "product_id",
+      "type": "string",
+      "doc": "The string is a unicode character sequence."
+    },
+    {
+      "name": "existing_level",
+      "type": "int",
+      "doc": "The int type is a 32-bit signed integer."
+    },
+    {
+      "name": "stock_quantity",
+      "type": "int",
+      "doc": "The int type is a 32-bit signed integer."
+    },
+    {
+      "name": "new_level",
+      "type": "int",
+      "doc": "The int type is a 32-bit signed integer."
+    }
+  ]
+}

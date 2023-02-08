@@ -1,0 +1,52 @@
+{
+  "type": "record",
+  "name": "Purchase",
+  "namespace": "com.example.models",
+  "fields": [
+    {
+      "name": "transaction_time",
+      "type": "string",
+      "doc": "The string is a unicode character sequence."
+    },
+    {
+      "name": "transaction_id",
+      "type": "string",
+      "doc": "The string is a unicode character sequence."
+    },
+    {
+      "name": "product_id",
+      "type": "string",
+      "doc": "The string is a unicode character sequence."
+    },
+    {
+      "name": "price",
+      "type": "double",
+      "doc": "The double type is a double precision (64-bit) IEEE 754 floating-point number."
+    },
+    {
+      "name": "quantity",
+      "type": "int",
+      "doc": "The int type is a 32-bit signed integer."
+    },
+    {
+      "name": "is_member",
+      "type": "boolean",
+      "doc": "The boolean type has two possible values: true and false."
+    },
+    {
+      "name": "member_discount",
+      "type": "double",
+      "doc": "The double type is a double precision (64-bit) IEEE 754 floating-point number."
+    },
+    {
+      "name": "add_supplements",
+      "type": "boolean",
+      "doc": "The boolean type has two possible values: true and false."
+    },
+    {
+      "name": "supplement_price",
+      "type": "double",
+      "doc": "The double type is a double precision (64-bit) IEEE 754 floating-point number."
+    }
+  ]
+}
